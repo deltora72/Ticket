@@ -1,0 +1,282 @@
+[
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/dariush.jpg",
+            "place_name": "هتلداریوش",
+            "hotel_kind": "هتلپنجستاره",
+            "phone_number": "076-44422141",
+            "address": "كيش،میدانداریوش",
+            "lat": "26.535671",
+            "lng": "54.026850",
+            "important_places": "پارکدلفین"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/marina.jpg",
+            "place_name": "هتلماریناپارک",
+            "hotel_kind": "هتلپنجستاره",
+            "phone_number": "076-44465000",
+            "address": "کیش،بلوارمرجان،جنببرجهایدوقلو",
+            "lat": "26.520972",
+            "lng": "54.045847",
+            "important_places": "پارکدانشجو-پارکلاله"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/shayan.jpg",
+            "place_name": "هتلشایان",
+            "hotel_kind": "هتلپنجستاره",
+            "phone_number": "076-44423873",
+            "address": "کیش،میدانساحل",
+            "lat": "26.545933",
+            "lng": "54.021108",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/parmis.jpg",
+            "place_name": "هتلپارمیس",
+            "hotel_kind": "هتلپنجستاره",
+            "phone_number": "076-44446223",
+            "address": "كيش،میدانپردیس",
+            "lat": "26.536552",
+            "lng": "54.018676",
+            "important_places": "پارکدلفین"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/iran.jpg",
+            "place_name": "هتلایران",
+            "hotel_kind": "هتلپنجستاره",
+            "phone_number": "076-44467640",
+            "address": "کیش،میدانامیرکبیر،بلوارخلیجفارس(بلوارسیاحتی)",
+            "lat": "26.540802",
+            "lng": "54.015549",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/shaygan.JPG",
+            "place_name": "هتلشایگان",
+            "hotel_kind": "هتلپنجستاره",
+            "phone_number": "076-44422444",
+            "address": "کیش،ابتدایبلواررودکی",
+            "lat": "26.539495",
+            "lng": "54.018295",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/sorinet-maryam.jpg",
+            "place_name": "هتلسورینتمریم",
+            "hotel_kind": "هتلچهارستاره",
+            "phone_number": "076-44467511",
+            "address": "كيش،ميداناميركبير",
+            "lat": "26.542677",
+            "lng": "54.014958",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/flamingo.jpg",
+            "place_name": "هتلفلامینگو",
+            "hotel_kind": "هتلچهارستاره",
+            "phone_number": "076-44424130",
+            "address": "كيش،میدانامیرکبیر،بلواردریا",
+            "lat": "26.547064",
+            "lng": "54.015601",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/arian.jpg",
+            "place_name": "هتلآریان",
+            "hotel_kind": "هتلچهارستاره",
+            "phone_number": "076-44424951",
+            "address": "کیش،میدانامیرکبیر،جنبهتلمریم",
+            "lat": "26.542151",
+            "lng": "54.015684",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/aramis.jpg",
+            "place_name": "هتلآرامیس",
+            "hotel_kind": "هتلچهارستاره",
+            "phone_number": "076-44423823",
+            "address": "كيش،ميدانپرديس",
+            "lat": "26.537587",
+            "lng": "54.019083",
+            "important_places": "هایپراستار-مرکزخریدتیراژه2"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/eram.jpg",
+            "place_name": "هتلارم",
+            "hotel_kind": "هتلچهارستاره",
+            "phone_number": "076-44446290",
+            "address": "كيش،بلوارخيام",
+            "lat": "26.533909",
+            "lng": "54.024454",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/HotelHeliaKish.jpg",
+            "place_name": "هتلهلیا",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44424501",
+            "address": "کیش،میدانساحل،روبهرویبازارزیتون",
+            "lat": "26.544696",
+            "lng": "54.016276",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/sara.jpg",
+            "place_name": "هتلسارا",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44423700",
+            "address": "کیش،جنببازارپردیسان،خیابانرودکی",
+            "lat": "26.536547",
+            "lng": "54.021887",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/HotellutusKish.jpg",
+            "place_name": "هتللوتوس",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44421237",
+            "address": "جزیرهکیش،میدانامیرکبیر(روبرویپاساژمروارید)هتللوتوس",
+            "lat": "26.548197",
+            "lng": "54.014640",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/grand-hotel-kish.jpg",
+            "place_name": "هتلگراند",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44424860",
+            "address": "کیش،روبهرویبازارونوس",
+            "lat": "26.549010",
+            "lng": "54.017033",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/ana.jpg",
+            "place_name": "هتلآنا",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44424120",
+            "address": "كيش،ميداناميركبير،جنبپاساژپارسنيك",
+            "lat": "26.545763",
+            "lng": "54.014575",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/parsnik.jpg",
+            "place_name": "هتلپارسنیک",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44420140",
+            "address": "کیش،میدانامیرکبیر،بلواردریا،حدفاصلاناوفلامینگو",
+            "lat": "26.546303",
+            "lng": "54.014237",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/toproz.jpg",
+            "place_name": "هتلتاپرز",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44422017",
+            "address": "كيش،روبروىبازارپرديس،انتهاىخيابانابنسينا",
+            "lat": "26.538898",
+            "lng": "54.024888",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/HotelArameshKish.jpg",
+            "place_name": "هتلآرامش",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-22601205",
+            "address": "کیش،میدانساحل،جنببازارزیتون",
+            "lat": "26.544084",
+            "lng": "54.017488",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/sunrise.jpg",
+            "place_name": "هتلسانرایز",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44467501",
+            "address": "کیش،مقابلپردیسدو",
+            "lat": "26.534560",
+            "lng": "54.018686",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/didaniha.JPG",
+            "place_name": "هتلدیدنیها",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44466011",
+            "address": "کیش،پشتبازارمرجان،جنببرجدوقلو",
+            "lat": "26.523209",
+            "lng": "54.041905",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/aftabshargh.jpg",
+            "place_name": "هتلآفتابشرق",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44434100",
+            "address": "کیش،میرمهنا،میدانسعدی",
+            "lat": "26.562950",
+            "lng": "53.943786",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/simorgh.jpg",
+            "place_name": "مجتمعساحلیسیمرغ",
+            "hotel_kind": "هتلسهستاره",
+            "phone_number": "076-44465181",
+            "address": "كيش،ابتدایخیابانجهان،بعدازبازارمرجان",
+            "lat": "26.515687",
+            "lng": "54.047017",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/abadgaran.jpg",
+            "place_name": "هتلآبادگران",
+            "hotel_kind": "هتلدوستاره",
+            "phone_number": "076-44422759",
+            "address": "کیش،خیابانپرویناعتصامی،هتلآبادگران",
+            "lat": "26.541002",
+            "lng": "54.023298",
+            "important_places": "مجموعهورزشیانقلاب"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/paniz.jpg",
+            "place_name": "هتلپانیذ",
+            "hotel_kind": "هتلدوستاره",
+            "phone_number": "076-44467381",
+            "address": "کیش،بلواررودکی،جنبهتلآرام",
+            "lat": "26.537686",
+            "lng": "54.017606",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/tamasha.jpg",
+            "place_name": "هتلتماشا",
+            "hotel_kind": "هتلدوستاره",
+            "phone_number": "076-44424711",
+            "address": "کیش،میدانامیرکبیر",
+            "lat": "26.543180",
+            "lng": "54.015597",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/shabaviz.jpg",
+            "place_name": "هتلشباویز",
+            "hotel_kind": "هتلدوستاره",
+            "phone_number": "076-44465172",
+            "address": "کیش،بعدازبازارمرجان",
+            "lat": "26.517314",
+            "lng": "54.045290",
+            "important_places": "پارکملت"
+        },
+        {
+            "place_image": "http: //simakochooloo.ir/sites/all/themes/andromeda/images/kish/palas.jpg",
+            "place_name": "هتلپالاس",
+            "hotel_kind": "هتلپنجستاره",
+            "phone_number": "076-22370001",
+            "address": "كيش-مابینمیدانسیریومیدانداریوش",
+            "lat": "26.532728",
+            "lng": "54.027011",
+            "important_places": "پروتئینگلشهر"
+        }
+]
